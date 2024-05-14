@@ -1,0 +1,13 @@
+1 print ("Hello World")
+2 #"hello world"
+3 #numero =int(input("insira um numero para informar se ele é divisivel por 5"))
+4 #print (numero/5)
+5 #numero =int(input("insira o numero que sera dividido"))
+6
+7 #condições
+8 n=int(input("insira um numero: "))
+9 # divida por 5
+10 if n  % 5 == 0:
+11    print ("o numero {numero} é divisivel por cinco")
+12 else:
+13    print("o numero {numero} não é divisivel por 5")
