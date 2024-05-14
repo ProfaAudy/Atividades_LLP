@@ -13,3 +13,6 @@ Este repositório foi criado para que vocês me enviem as atividades de Lógica 
 1. 07/05/2024
    - Escreva um programa que leia um número inteiro e apresente seu antecessor e seu sucessor.
     - Elabore um programa que receba quatro notas e calcule a média aritmética entre elas.
+2. 14/05/2024
+   - Faça um programa que leia um número e informe se ele é divisível por cinco.
+
