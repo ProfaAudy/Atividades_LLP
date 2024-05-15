@@ -1,0 +1,18 @@
+# Função para Calcular a média aritmética
+import math as m
+
+
+def calcular_média(notas):
+ somas =sum(notas)  
+media =soma/len(notas)
+'return' m
+
+# Exemplos de notas
+notas = [7.7,9.0,7.5,8.5] 
+
+# Calculando a média 
+media = calcular_média(notas)
+
+#exibindo o resultado
+print(f"As notas são:{notas}")
+print(f"A média aritmética das notas é: {media:2f}")
