@@ -15,4 +15,5 @@ Este repositório foi criado para que vocês me enviem as atividades de Lógica 
     - Elabore um programa que receba quatro notas e calcule a média aritmética entre elas.
 2. 14/05/2024
    - Faça um programa que leia um número e informe se ele é divisível por cinco.
+   - Faça um programa que leia o peso e a altura de uma pessoa, calcule seu IMC e informe o valor e sua faixa dentro da tabela. Link da tabela: https://bariatricaflorianopolis.com.br/wp-content/uploads/2017/06/Tabela-de-IMC-dos-Graus-de-obesidade.png
 
