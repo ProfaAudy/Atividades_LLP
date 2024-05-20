@@ -1,0 +1,20 @@
+print("Hello Word")
+#"hello world"
+numero = int(input("Insira um númer:"))
+print(numero*2)
+print(numero+2)
+print(numero-2)
+print(numero/2)
+print(numero%2)
+# Lê um número inteiro do usuário
+numero = int(input("Digite um número inteiro: "))
+ 
+# Calcula o antecessor e o sucessor"
+antecessor = numero - 1
+sucessor = numero + 1
+ 
+# Apresenta o antecessor e o sucessor
+print(f"Antecessor:" , antecessor)
+print(f"Sucessor:" ,sucessor)
+
+#Marcos Henrique
