@@ -1,0 +1,18 @@
+print("Hello World")
+#"Hello world"
+#numero = int(input("insira um número:"))
+#print(numero*2)
+#print(numero+2)
+#print(numero-2)
+#print(numero/2)
+#print(numero%2)
+
+#Condições
+n = int(input("Insira um número:"))
+# > maior que
+if n >= 60:
+    print("Maior de  idade")
+elif: n >= 18:
+    print("Menor de idade")
+else:
+    print("Menor de idade")
