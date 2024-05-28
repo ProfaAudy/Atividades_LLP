@@ -1,6 +1,0 @@
-nota1 = float (input("insira a nota"))
-nota2 = float (input("insira a nota"))
-nota3 = float (input("insira a nota"))
-nota4 = float (input("insira a nota"))
-media = float (nota1+nota2+nota3+nota4/4)
-print(media)
