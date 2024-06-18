@@ -1,0 +1,11 @@
+def main():
+    # Solicita ao usuário que digite um número
+    numero = int(input("Digite um número inteiro: "))
+
+    # Verifica se o número é divisível por cinco
+    if numero % 5 == 0:
+        print(f"O número {numero} é divisível por cinco.")
+    else:
+        print(f"O número {numero} não é divisível por cinco.")
+if __name__ == "__main__":
+    main() 
