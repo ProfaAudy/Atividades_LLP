@@ -1,0 +1,25 @@
+def main():
+    # Inicializar contadores
+    count_pares = 0
+    count_impares = 0
+    
+    while True:
+        # Solicitar ao usuário que digite um número inteiro
+        numero = int(input("Digite um número inteiro (digite 0 para encerrar): "))
+        
+        # Verificar se o número é zero para encerrar o loop
+        if numero == 0:
+            break
+        
+        # Verificar se o número é par ou ímpar e atualizar os contadores
+        if numero % 2 == 0:
+            count_pares += 1
+        else:
+            count_impares += 1
+    
+    # Exibir o resultado final
+    print(f"Quantidade de números pares: {count_pares}")
+    print(f"Quantidade de números ímpares: {count_impares}")
+
+if __name__ == "__main__":
+    main()
